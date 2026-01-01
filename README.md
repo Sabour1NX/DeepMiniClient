@@ -33,8 +33,8 @@ DeepMiniClient AI 对话系统是一个基于命令行的AI对话工具，支持
 ## 快速开始
 
 ### 系统要求
-
-- Python 3.7+
+- Windows10及更新的版本 或者 Linux
+- Python 3.7+或者windows系统可以使用release处安装打包好的.exe
 - 有效的DeepSeek API密钥或其他OpenAI兼容API密钥
 
 ### 安装步骤
@@ -386,5 +386,6 @@ def new_command(self, *args):
 本项目为开源项目，遵循GPL2.0协议。使用前请确保遵守API提供商的服务条款和相关法律法规。
 
 ---
+
 
 *文档最后更新：2026年1月1日*
